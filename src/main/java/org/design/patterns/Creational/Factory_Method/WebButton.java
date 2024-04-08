@@ -1,4 +1,4 @@
-package org.design.pattern.factoryMethod;
+package org.design.patterns.Creational.Factory_Method;
 
 public class WebButton implements Button{
     @Override
