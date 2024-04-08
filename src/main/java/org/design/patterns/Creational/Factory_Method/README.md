@@ -21,3 +21,6 @@
 - Factory Class: một class chịu tránh nhiệm khởi tạo các đối tượng class con dựa theo tham số đầu vào. (Lớp này là
   Singleton hoặc cung cấp một public static method cho việc truy xuất và khởi tạo đối tượng. Factory class sử dụng
   if-else hoặc switch-case để xác định class con đầu ra.)
+
+## Tham khảo thêm: 
+- https://refactoring.guru/design-patterns/factory-method
