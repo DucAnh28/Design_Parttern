@@ -1,4 +1,4 @@
-package org.designPatterns.factoryMethod;
+package org.design.pattern.factoryMethod;
 
 public class WindowButton implements Button{
     @Override

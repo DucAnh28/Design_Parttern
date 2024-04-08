@@ -1,4 +1,4 @@
-package org.designPatterns.factoryMethod;
+package org.design.pattern.factoryMethod;
 
 public class Application {
     public static Button initialize(boolean whatIf) {
